@@ -1,0 +1,11 @@
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.AssemblyInfoInputs.cache
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.AssemblyInfo.cs
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.csproj.CoreCompileInputs.cache
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\bin\Debug\net6.0\InvenManagerSvc.deps.json
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\bin\Debug\net6.0\InvenManagerSvc.dll
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\bin\Debug\net6.0\InvenManagerSvc.pdb
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.dll
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\refint\InvenManagerSvc.dll
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\InvenManagerSvc.pdb
+C:\Users\gibra\Desktop\C#\InvManager\InvenManagerSvc\obj\Debug\net6.0\ref\InvenManagerSvc.dll
