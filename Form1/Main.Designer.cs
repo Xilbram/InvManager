@@ -50,6 +50,7 @@ namespace Form1
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
+            InvenManager.Classes.Generator.gerarCliente();
         }
         #endregion
 
